@@ -1,0 +1,1 @@
+See <https://github.com/thoughtpolice/bootstrap.nix> for more info.
