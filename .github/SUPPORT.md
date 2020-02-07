@@ -1,0 +1,3 @@
+# Getting support and help
+
+TODO FIXME: Lorem ipsum...
